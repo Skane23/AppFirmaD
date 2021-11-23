@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+VnQ5zyByYC4ctAzWj9v8BR9Up39nMLvdfx2iLy7eQVdoM+dgpNVLeIjk46ort3zEDPlrHAGdwV34xL7l6YzHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\keyli\\source\\repos\\AppFirmaDigital\\AppFirmaDigital\\AppFirmaDigital.iOS\\AppFirmaDigital.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keyli\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\keyli\\.nuget\\packages\\xamarin.controls.signaturepad\\3.0.0\\xamarin.controls.signaturepad.3.0.0.nupkg.sha512",
+    "C:\\Users\\keyli\\.nuget\\packages\\xamarin.controls.signaturepad.forms\\3.0.0\\xamarin.controls.signaturepad.forms.3.0.0.nupkg.sha512",
+    "C:\\Users\\keyli\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\keyli\\.nuget\\packages\\xamarin.forms\\5.0.0.2244\\xamarin.forms.5.0.0.2244.nupkg.sha512"
+  ],
+  "logs": []
+}

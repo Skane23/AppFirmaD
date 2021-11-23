@@ -1,0 +1,15 @@
+C:\Users\keyli\source\repos\AppFirmaDigital\AppFirmaDigital\AppFirmaDigital\bin\Debug\netstandard2.0\AppFirmaDigital.deps.json
+C:\Users\keyli\source\repos\AppFirmaDigital\AppFirmaDigital\AppFirmaDigital\bin\Debug\netstandard2.0\AppFirmaDigital.dll
+C:\Users\keyli\source\repos\AppFirmaDigital\AppFirmaDigital\AppFirmaDigital\bin\Debug\netstandard2.0\ref\AppFirmaDigital.dll
+C:\Users\keyli\source\repos\AppFirmaDigital\AppFirmaDigital\AppFirmaDigital\bin\Debug\netstandard2.0\AppFirmaDigital.pdb
+C:\Users\keyli\source\repos\AppFirmaDigital\AppFirmaDigital\AppFirmaDigital\obj\Debug\netstandard2.0\AppFirmaDigital.csproj.AssemblyReference.cache
+C:\Users\keyli\source\repos\AppFirmaDigital\AppFirmaDigital\AppFirmaDigital\obj\Debug\netstandard2.0\AppFirmaDigital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyli\source\repos\AppFirmaDigital\AppFirmaDigital\AppFirmaDigital\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\keyli\source\repos\AppFirmaDigital\AppFirmaDigital\AppFirmaDigital\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\keyli\source\repos\AppFirmaDigital\AppFirmaDigital\AppFirmaDigital\obj\Debug\netstandard2.0\AppFirmaDigital.AssemblyInfoInputs.cache
+C:\Users\keyli\source\repos\AppFirmaDigital\AppFirmaDigital\AppFirmaDigital\obj\Debug\netstandard2.0\AppFirmaDigital.AssemblyInfo.cs
+C:\Users\keyli\source\repos\AppFirmaDigital\AppFirmaDigital\AppFirmaDigital\obj\Debug\netstandard2.0\AppFirmaDigital.csproj.CoreCompileInputs.cache
+C:\Users\keyli\source\repos\AppFirmaDigital\AppFirmaDigital\AppFirmaDigital\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\keyli\source\repos\AppFirmaDigital\AppFirmaDigital\AppFirmaDigital\obj\Debug\netstandard2.0\AppFirmaDigital.dll
+C:\Users\keyli\source\repos\AppFirmaDigital\AppFirmaDigital\AppFirmaDigital\obj\Debug\netstandard2.0\ref\AppFirmaDigital.dll
+C:\Users\keyli\source\repos\AppFirmaDigital\AppFirmaDigital\AppFirmaDigital\obj\Debug\netstandard2.0\AppFirmaDigital.pdb
